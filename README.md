@@ -32,3 +32,6 @@ O AT proposto deve implementar um caixa de supermercado de forma que o operador 
 2. Solução
 
 - Implementar persistência em um banco de dados com controle de concorrência.
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/warsiege00/edu.infnet.dados.python.at)
